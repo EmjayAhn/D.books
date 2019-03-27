@@ -3,3 +3,7 @@
 *.csv
 *.jpg
 .env
+*.mat
+*.categories
+*.txt
+
