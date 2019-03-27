@@ -1,4 +1,4 @@
-# D.books
+# D.books🎯📚
 >'D' stands for "Development", "DataScience", "DeepLearning", and be **"diligent"**
 
 - 읽은 책들을 기록, 정리합니다.
@@ -13,4 +13,8 @@
 
 ## DEEP LEARNING
 
-#### - 밑바닥부터 시작하는 딥러닝 (1회독 완료)
+#### - 밑바닥부터 시작하는 딥러닝 (1회독 완료📖)
+#### - 처음 시작하는 파이썬 (공부중..👓)
+#### - 파이썬 머신러닝 완벽가이드 (공부중..👓)
+#### - PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 (공부중..👓)
+
