@@ -6,4 +6,6 @@
 *.mat
 *.categories
 *.txt
-
+*.zip
+.gitignore
+.txt
